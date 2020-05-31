@@ -2,7 +2,7 @@
 
 **You have been hired to work at a new startup company called Upzilla, and Upzilla’s goal is to make the best web browser for the next generation of computers.**
   
-**Your first project at Upzilla is to implement the browsing history feature, where you track the websites that the user has visited**
+**Your first project at Upzilla is to implement the browsing history feature, where you track the websites that the user has visited.**
 
 `This project has the following functions:`
 
